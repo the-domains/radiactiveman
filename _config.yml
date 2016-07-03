@@ -1,0 +1,14 @@
+layout_spectrum: 0.1163843
+typography_spectrum: 0.5100338
+color:
+  lightness: 0.1729274
+  brandStrength: 0.8787234
+  saturation: 0.5557069
+  rhythmicContrast: 0.5566552
+  brandColors:
+    - '#E3F0F3'
+    - '#88888F'
+    - '#573931'
+    - '#DFB967'
+    - '#B31945'
+name: Radioactive man
